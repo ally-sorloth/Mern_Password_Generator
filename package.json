@@ -1,0 +1,27 @@
+{
+  "name": "Mern_Password_Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ally-sorloth/Mern_Password_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ally-sorloth/Mern_Password_Generator/issues"
+  },
+  "homepage": "https://github.com/ally-sorloth/Mern_Password_Generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "password-generator": "^2.3.2"
+  }
+}
